@@ -1,0 +1,6 @@
+F:\Project\AOP\AOPDemo\StaticDemo\bin\Debug\StaticDemo.exe.config
+F:\Project\AOP\AOPDemo\StaticDemo\bin\Debug\StaticDemo.exe
+F:\Project\AOP\AOPDemo\StaticDemo\bin\Debug\StaticDemo.pdb
+F:\Project\AOP\AOPDemo\StaticDemo\obj\Debug\StaticDemo.csprojAssemblyReference.cache
+F:\Project\AOP\AOPDemo\StaticDemo\obj\Debug\StaticDemo.exe
+F:\Project\AOP\AOPDemo\StaticDemo\obj\Debug\StaticDemo.pdb

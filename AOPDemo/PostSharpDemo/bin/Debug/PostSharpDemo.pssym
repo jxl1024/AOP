@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols LinesOfCode="22" PostSharpLinesOfCode="0" EnhancedTypesCount="1" SchemaVersion="1" PostSharpVersion="6.4.7.0" xmlns="http://schemas.postsharp.org/2.0/symbols">
+  <Class Class="#1=T:[PostSharpDemo]PostSharpDemo.LogAttribute">
+    <Instance Declaration="#2=M:[PostSharpDemo]PostSharpDemo.OrderBusiness::DoWork()" Id="ad9721058c2b559d">
+      <Target LinesAvoided="4">
+        <JoinPoint Description="#3=Wrapped by advice(s) OnEntry, OnExit" Ordinal="0" />
+      </Target>
+    </Instance>
+  </Class>
+  <Annotation Target="#4=M:[PostSharpDemo]PostSharpDemo.LogAttribute::OnEntry(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#5=2" Description="#6=PostSharp estimates that 2 lines of code are saved every time this advice is applied. Use the [LinesOfCodeAvoided] attribute on the aspect or specify the LinesOfCodeAvoided property on the advice attribute to override this value." />
+  <Annotation Target="#7=M:[PostSharpDemo]PostSharpDemo.LogAttribute::OnExit(PostSharp.Aspects.MethodExecutionArgs)" Arguments="#5" Description="#6" />
+</Symbols>
